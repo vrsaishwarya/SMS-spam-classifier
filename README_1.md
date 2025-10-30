@@ -1,4 +1,4 @@
-# Email Spam Classifier
+# SMS Spam Classifier
 
 ## Overview
 This project aims to build a machine learning model that classifies emails into two categories: **Spam** and **Not Spam**. By leveraging Natural Language Processing (NLP) techniques and supervised learning algorithms, the model detects patterns in emails that are typically found in spam messages, enabling automated email filtering.
